@@ -1,0 +1,18 @@
+#abb{
+	height: 1500px;
+	width: 1000px;
+	background-color:black;
+}
+#bba{
+	height: 300px;
+	width: 600px;
+	background-color: white;
+	margin: 80px;
+	position: absolute;
+}
+#aba{
+	height: 200px;
+	width: 300px;
+	background-color: pink;
+	outline:5px dotted red;
+}

@@ -1,0 +1,100 @@
+body{
+	margin-left:100px;
+	padding:0px;
+}
+h1{
+text-align:left;
+font-size:70px;
+}
+a{
+	margin:10px;
+	padding:10px;
+	float: left;
+	font-size:20px;
+}
+a[href]{
+	color:blue;
+}
+a:link{
+	color:blue;
+}
+a:visted{
+	color:red;
+}
+a:hover{
+	color:purple;
+}
+.i{
+	text-align: left;
+}
+#header{
+	text-align: left;
+}
+
+.j{
+   color:purple;
+   text-decoration: underline;
+   letter-spacing: 2px;
+   margin:20px;
+   width: 1650px;
+   font-size: 20px;
+}
+.k{
+	font-size-adjust:20px ;
+}
+img[src]{
+ width:200px;
+ height:100px;
+}
+.h{
+	text-align:left;
+	font-size: 20px;
+}
+.l{
+	background-color:yellow;
+}
+.t{
+	text-align: left;
+}
+dd{
+	line-height: 50px;
+	letter-spacing: 2px;
+}
+
+.label{
+	text-align: left;
+}
+h3{
+	text-align: left;
+}
+div{
+	background-color:whitesmoke;
+	width:1000px;
+	height:200px;
+}
+pre{
+	margin:20px;
+	padding:50px;
+}
+pre{
+	margin:20px;
+	padding:50px;
+}
+.o{
+	color: purple;
+	text-align: left;
+}
+.m{
+	background-color:silver;
+	   width: 1000px;
+   height: 200px;
+}
+.d{
+   margin: 100px;
+   padding:90px;
+}
+textarea{
+	height: 200px;
+	width: 150px;
+	background-color: red;
+}
